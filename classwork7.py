@@ -1,0 +1,1 @@
+def min_n_variabies(elements) 
